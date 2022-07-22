@@ -1,0 +1,42 @@
+species,xrate,size,interpatchdist,distnear,Spp,maxsize,meanxrate,disttonear
+gangel,33,60,8.24,4.12,Grey Angelfish,60,14.6,7.15
+gangel,18,60,5.67,2.835,Black Grouper,150,12.66666667,7.15
+gangel,6,60,5.3,2.65,Nassau Grouper,122,5,7.15
+gangel,14,60,11,5.5,Sailors Choice,41.2,33.25,85.5
+gangel,2,60,14.3,7.15,White Grunt,53,68.4,85.5
+blgrouper,5,150,8.24,4.12,Princess Parrotfish,35,17.75,7.15
+blgrouper,18,150,5.3,2.65,Redtail Parrotfish,46,8.666666667,85.5
+blgrouper,15,150,14.3,7.15,Stoplight Parrotfish,64,4.25,7.15
+nassau,1,122,8.24,4.12,Grey Snapper,89,15.25,16
+nassau,7,122,5.67,2.835,Mutton Snapper,94,31,85.5
+nassau,7,122,5.3,2.65,,,,
+nassau,5,122,14.3,7.15,,,,
+sailor,8,41,8.24,4.12,,,,
+sailor,42,41,5.3,2.65,,,,
+sailor,1,41,32,16,,,,
+sailor,82,41,14.3,7.15,,,,
+wgrunt,90,53,8.24,4.12,,,,
+wgrunt,222,53,5.67,2.835,,,,
+wgrunt,5,53,5.3,2.65,,,,
+wgrunt,22,53,32,16,,,,
+wgrunt,3,53,14.3,7.15,,,,
+princess,50,35,8.24,4.12,,,,
+princess,16,35,5.67,2.835,,,,
+princess,4,35,5.3,2.65,,,,
+princess,1,35,14.3,7.15,,,,
+redtail,20,46,8.24,4.12,,,,
+redtail,3,46,5.67,2.835,,,,
+redtail,3,46,14.3,7.15,,,,
+stoplight,7,64,8.24,4.12,,,,
+stoplight,6,64,5.67,2.835,,,,
+stoplight,2,64,5.3,2.65,,,,
+stoplight,2,64,14.3,7.15,,,,
+gsnapper,5,89,8.24,4.12,,,,
+gsnapper,24,89,5.67,2.835,,,,
+gsnapper,1,89,11,5.5,,,,
+gsnapper,31,89,14.3,7.15,,,,
+mutton,9,94,8.24,4.12,,,,
+mutton,6,94,5.67,2.835,,,,
+mutton,82,94,5.3,2.65,,,,
+mutton,27,94,32,16,,,,
+mutton,59,94,14.3,7.15,,,,
